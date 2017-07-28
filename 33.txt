@@ -1,1 +1,6 @@
 测试 创建分支，查看分支，切换分支，合并分支
+
+测试 先push 后pull
+测试 先push 后pull
+测试 先push 后pull
+测试 先push 后pull
